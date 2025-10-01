@@ -3,9 +3,13 @@ Here are a few helpful sites:
 https://www.ariss.org/upcoming-sstv-events.html <-- ARISS SSTV event schedule.
 
 Tentative times are:
+
 2025-10-03 1140 UTC start
+
 2025-10-04 1000 UTC pause for a school event
+
 2025-10-04 1100 UTC resume
+
 2025-10-06 TBD UTC stop
 
 https://www.amsat.org/status/ <-- AMSAT satellite status and reporting
